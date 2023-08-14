@@ -78,5 +78,12 @@
 
 ## Контактная информация
 - Email: skoric757@gmail.com
-- LinkedIn: https://github.com/Dicdikiy2
 
+<p align="left">
+  <a href="https://github.com/Dicdikiy2/PortfolioDSkorobogatov">
+    <img src="https://komarev.com/ghpvc/?username=Dicdikiy2" alt="page views" />
+  </a>
+  <a href="https://github.com/Dicdikiy2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Dicdikiy2?color=green&logo=github">
+  </a>
+</p>
